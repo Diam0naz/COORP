@@ -10,7 +10,7 @@
     let naviGation = document.createElement('nav')
 
     naviGation.innerHTML = `
-                            <img src="/dist/images/Elevate Your Screen With Stunning Anime Wallpaper In 4K Resolution.jpeg" >
+                           <!-- <img src="/dist/images/Elevate Your Screen With Stunning Anime Wallpaper In 4K Resolution.jpeg" > -->
                             <span>
                                 Ilemona Utenoh
                             </span>
